@@ -1,0 +1,21 @@
+.head1{
+    color:tan;
+}
+article{
+    display:flex;
+    text-align:center;
+}
+.short-description{
+    margin-top:70px;
+}
+.card-footer{
+    display:inline-block;
+}
+
+.card-footer h5{
+    float:right;
+}
+.card-footer p{
+    float:left;
+    margin-left:0;
+}
